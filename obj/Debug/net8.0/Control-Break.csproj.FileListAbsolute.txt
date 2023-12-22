@@ -1,0 +1,14 @@
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\obj\Debug\net8.0\Control-Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\obj\Debug\net8.0\Control-Break.AssemblyInfoInputs.cache
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\obj\Debug\net8.0\Control-Break.AssemblyInfo.cs
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\obj\Debug\net8.0\Control-Break.csproj.CoreCompileInputs.cache
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\bin\Debug\net8.0\Control-Break.exe
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\bin\Debug\net8.0\Control-Break.deps.json
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\bin\Debug\net8.0\Control-Break.runtimeconfig.json
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\bin\Debug\net8.0\Control-Break.dll
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\bin\Debug\net8.0\Control-Break.pdb
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\obj\Debug\net8.0\Control-Break.dll
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\obj\Debug\net8.0\refint\Control-Break.dll
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\obj\Debug\net8.0\Control-Break.pdb
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\obj\Debug\net8.0\Control-Break.genruntimeconfig.cache
+C:\Users\kylel\OneDrive\Desktop\221-Spring-24-Lab-Ideas\Control-Break\obj\Debug\net8.0\ref\Control-Break.dll

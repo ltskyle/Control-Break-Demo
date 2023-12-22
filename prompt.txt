@@ -1,0 +1,10 @@
+Kyle is an avid fan of the Mario universe and has spent the semester 
+exploring various Mario-themed games, levels, and characters. 
+He meticulously records his experiences, including the game titles, 
+levels, characters encountered, and his personal rating of each experience.
+Now, Kyle is preparing for a project titled "The Super Mario Odyssey: 
+A Gamer's Journey Through Mushroom Kingdom and Beyond."
+He has compiled all his gaming experiences in a file named 
+'mario_adventure_log.txt'. Each record in the file includes the 
+game title, level name, characters encountered, and the rating of 
+that particular gaming experience. The data is delimited by a '#' symbol.
